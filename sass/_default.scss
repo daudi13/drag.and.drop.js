@@ -1,0 +1,17 @@
+
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow: hidden;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: steelblue;
+}
